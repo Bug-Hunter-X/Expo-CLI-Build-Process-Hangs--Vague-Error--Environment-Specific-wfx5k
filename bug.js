@@ -1,0 +1,1 @@
+While building an Expo project, I encountered an error related to the Expo CLI itself. The error message was vague and didn't pinpoint the exact cause. The project built successfully on other machines, indicating a local environment issue. The build process would get stuck at a certain point without any clear indication of what went wrong.
